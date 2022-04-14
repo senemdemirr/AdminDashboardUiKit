@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&400&600&700&display=swap');
+*{
+    font-family: 'Mulish',sans-serif;
+}
+body{
+    background-color: #363740;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+    width: 380px;
+    height: 582px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    
+}
+.dashboard-kit{
+    font-size: 19px;
+    color: #A4A6B3;
+    font-weight: 700;
+    line-height: 24px;
+    font-style: normal;
+    opacity: 0.7;
+    letter-spacing: 0.4px;
+}
+.login-text{
+    color: #252733;
+    font-size: 24px;
+    line-height: 40px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+.text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9FA2B4;
+    letter-spacing: 0.3px;
+}
+.email{
+    color: #9FA2B4;
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 700;
+}
+#exampleInputEmail1{
+    background-color: #FCFDFE;
+    border: 1px solid #F0F1F7;
+    border-radius: 8px;
+}
+#exampleInputEmail1::placeholder{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #4B506D;
+    opacity: 0.4;
+}
+.password{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #9FA2B4;
+}
+.forgot{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    color: #9FA2B4;
+    
+}
+#exampleInputPassword1{
+    border: 1px solid #F0F1F7;
+    background-color: #FCFDFE;
+    border-radius: 8px;
+    background: url('assets/image/active.svg') right no-repeat;
+}
+#exampleInputPassword1::placeholder{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4B506D;
+    opacity: 0.4;
+}
+.btn{
+    height: 48px;
+    box-shadow: 0px 4px 12px rgba(55, 81, 255, 0.24);
+    border-radius: 8px;
+    background: #3751FF;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+a{
+    color: #3751FF;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.account-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9FA2B4;
+}
