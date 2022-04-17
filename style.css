@@ -128,3 +128,48 @@ a{
 .sidebar{
     background-color: #363740;
 }
+.overview-text{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+}
+.name-text{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #252733;
+}
+.box{
+    width: 258px;
+    height: 134px;
+    border: 1px solid #DFE0EB;
+    border-radius: 8px;
+}
+.box-text{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    color: #9FA2B4;
+}
+.box-number{
+    font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+}
+.box-additional{
+    height: 109px;
+    border-bottom: 1px solid #DFE0EB;
+    border-left: 1px solid #DFE0EB;
+}
+.box-additional-text{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #9FA2B4;
+}
+.box-additional-number{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #252733;
+}
