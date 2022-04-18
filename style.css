@@ -110,14 +110,12 @@ a{
     line-height: 24px;
     color: #A4A6B3;
     opacity: 0.7;
-    margin-left: 15px;
 }
 .li-text{
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
     color: #A4A6B3;
-    margin-left: 10px;
 }
 
 .sidebar{
@@ -151,7 +149,7 @@ a{
     line-height: 50px;
 }
 .box-additional{
-    height: 109px;
+    height: 112px;
     border-bottom: 1px solid #DFE0EB;
     border-left: 1px solid #DFE0EB;
 }
@@ -167,3 +165,16 @@ a{
     line-height: 30px;
     color: #252733;
 }
+.today-text{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #9FA2B4;
+}
+.tasks-title{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #C5C7CD;
+  }
